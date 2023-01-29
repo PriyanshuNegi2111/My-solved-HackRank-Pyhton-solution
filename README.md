@@ -1,3 +1,3 @@
 # My-solved-HackerRank-Pyhton-solution
 
-Here are my solution of pyhton-3 of HackerRank that i have solved 
+Here are my HackerRank python-3 solution that i have solved till now
